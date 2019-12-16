@@ -1,2 +1,2 @@
 # Android_
-This repository my all native android projects
+This repository have my all native android projects
